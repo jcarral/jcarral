@@ -1,1 +1,1 @@
-![](./dino.gif)
+![README](./dino.gif)
